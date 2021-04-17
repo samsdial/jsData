@@ -4,35 +4,35 @@
             "name": "Cassels Milk Stou",
             "description": "Cassels & Sons Brewing. Cerveza porter y stout.",
             "price": 75000,
-            "img": "https://learnwebcode.github.io/json-example/images/cassels.png",
+            "img": "https://samsdial.github.io/jsData/images/cassels.png",
             "filterId": 1
         },
         {
             "name": "Camba Pale Ale",
             "description": "La Souche Franc-Bois d’hiver. Cerveza pale.",
             "price": 85300,
-            "img": "https://learnwebcode.github.io/json-example/images/camba.png",
+            "img": "https://samsdial.github.io/jsData/images/camba.png",
             "filterId": 2
         },
         {
             "name": "Votus Nº 001",
             "description": "India Pale Ale del año 2019. Nº 001 Red IPA.",
             "price": 75000,
-            "img": "https://learnwebcode.github.io/json-example/images/votus.png",
+            "img": "https://samsdial.github.io/jsData/images/votus.png",
             "filterId": 3
         },
         {
             "name": "Prairie Artisian",
             "description": "Ales Prairie Noir Whiskey Barrel Aged Imperial Stout 12oz.",
             "price": 85300,
-            "img": "https://learnwebcode.github.io/json-example/images/prairie-artisian.png",
+            "img": "https://samsdial.github.io/jsData/images/prairie-artisian.png",
             "filterId": 1
         },
         {
             "name": "Lost Abbey",
             "description": "The Lost Abbey Citrus Sin American Wild Ale 750ml.",
             "price": 75000,
-            "img": "https://learnwebcode.github.io/json-example/images/lost-abbey.png",
+            "img": "https://samsdial.github.io/jsData/images/lost-abbey.png",
             "filterId": 2
         },
         {
