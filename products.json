@@ -39,35 +39,35 @@
             "name": "Prairie",
             "description": "Prairie Artisa Ales Paradise Imperial Stout 12oz.",
             "price": 85300,
-            "img": "https://learnwebcode.github.io/json-example/images/prairie.png",
+            "img": "https://samsdial.github.io/jsData/images/prairie.png",
             "filterId": 3
         },
         {
             "name": "Redrice",
             "description": "Hitachino Nest Beer Red Rice Ale 330ml.",
             "price": 85300,
-            "img": "https://learnwebcode.github.io/json-example/images/redrice.png",
+            "img": "https://samsdial.github.io/jsData/images/redrice.png",
             "filterId": 1
         },
         {
             "name": "Cascade",
             "description": "Cascade Brewing 2017 Brunch Line BA NORTHWEST Sour Ale.",
             "price": 175000,
-            "img": "https://learnwebcode.github.io/json-example/images/cascade.png",
+            "img": "https://samsdial.github.io/jsData/images/cascade.png",
             "filterId": 2
         },
         {
             "name": "Topa Topa",
             "description": "Topa Topa BREWING CO. 5th Year Anniversary clear Ipa 16oz.",
             "price": 85300,
-            "img": "https://learnwebcode.github.io/json-example/images/topa.png",
+            "img": "https://samsdial.github.io/jsData/images/topa.png",
             "filterId": 3
         },
         {
             "name": "Mira Brune Nº 6",
             "description": "Brown Ale, Brown Mira American Style.",
             "price": 375000,
-            "img": "https://learnwebcode.github.io/json-example/images/mira.png",
+            "img": "https://samsdial.github.io/jsData/images/mira.png",
             "filterId": 1
         }
     ]
